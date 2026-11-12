@@ -1,0 +1,6 @@
+{
+  "name": "Multimídia Fácil",
+  "description": "Sistema institucional de agendamento e gerenciamento de equipamentos multimídia para escolas e instituições de ensino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
